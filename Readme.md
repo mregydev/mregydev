@@ -4,33 +4,34 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript&#8203;:contentReference[oaicite:2]{index=2}
-- **Frameworks & Libraries:** :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
-- **Backend:** :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
-- **Databases:** :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
-- **Tools & Platforms:** :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
+- **Languages:** JavaScript, TypeScript
+- **Frameworks & Libraries:** Angular, React, Vue, Next.js
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, MySQL
+- **Tools & Platforms:** Git, Docker, GitHub Actions, Leaflet (GIS Mapping)
 
 ## 📌 Pinned Repositories
 
 Here are some of my notable projects:
 
-- [**redux-json-middleware**](https://github.com/mregydev/redux-json-middleware): :contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
-- [**nextjs-website**](https://github.com/mregydev/nextjs-website): :contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
-- [**my-eCommerce**](https://github.com/mregydev/my-eCommerce): :contentReference[oaicite:15]{index=15}&#8203;:contentReference[oaicite:16]{index=16}
-- [**UIAdapterX**](https://github.com/mregydev/UIAdapterX): :contentReference[oaicite:17]{index=17}&#8203;:contentReference[oaicite:18]{index=18}
-- [**trackingApp**](https://github.com/mregydev/trackingApp): :contentReference[oaicite:19]{index=19}&#8203;:contentReference[oaicite:20]{index=20}
-- [**alevent**](https://github.com/mregydev/alevent): :contentReference[oaicite:21]{index=21}&#8203;:contentReference[oaicite:22]{index=22}
+- [**angularTracking**](https://github.com/mregydev/angularTracking): A high-performance **GIS tracking application** built with **Angular** and **Leaflet**, optimized for rendering large datasets and real-time map interactions.
+- [**redux-json-middleware**](https://github.com/mregydev/redux-json-middleware): A lightweight Redux middleware for handling JSON-based API requests efficiently.
+- [**nextjs-website**](https://github.com/mregydev/nextjs-website): A modern e-commerce website showcasing the integration of server and client components using Next.js.
+- [**my-eCommerce**](https://github.com/mregydev/my-eCommerce): An e-commerce platform with a user-friendly interface, built with Vue.js.
+- [**UIAdapterX**](https://github.com/mregydev/UIAdapterX): A TypeScript library designed to streamline UI component adaptation across different frameworks.
+- [**trackingApp**](https://github.com/mregydev/trackingApp): A feature-rich TypeScript application for tracking and managing tasks efficiently.
+- [**alevent**](https://github.com/mregydev/alevent): An event management application built with TypeScript, allowing users to plan and organize events effectively.
 
 ## 🏆 Achievements
 
-- **Pull Shark:** :contentReference[oaicite:23]{index=23}&#8203;:contentReference[oaicite:24]{index=24}
-- **YOLO:** :contentReference[oaicite:25]{index=25}&#8203;:contentReference[oaicite:26]{index=26}
-- **Arctic Code Vault Contributor:** :contentReference[oaicite:27]{index=27}&#8203;:contentReference[oaicite:28]{index=28}
+- **Pull Shark:** Recognized for contributing high-quality pull requests.
+- **YOLO:** Acknowledged for quick responses and actions in open-source contributions.
+- **Arctic Code Vault Contributor:** Contributions preserved in GitHub’s Arctic Code Vault for future generations.
 
 ## 🌐 Links
 
-- **Website:** https://mregydev.github.io/
-- **LinkedIn:** https://www.linkedin.com/in/alaa-hamed-6605a7a2
+- **Website:** [mregydev.github.io](https://mregydev.github.io/)
+- **LinkedIn:** [Alaa Hamed](https://www.linkedin.com/in/alaa-hamed-6605a7a2)
 
 Feel free to explore my repositories and connect with me on LinkedIn. Let's collaborate and build something amazing together!
 
